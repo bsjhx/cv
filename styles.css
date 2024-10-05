@@ -261,4 +261,8 @@ page[size="A4"] {
     padding-left: 0.5cm;
     list-style-type: disc;
 }
+
+.pageBreaker {
+    margin-top: 120px;
+}
 /*End Layout*/
