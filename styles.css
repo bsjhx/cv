@@ -133,7 +133,7 @@ page[size="A4"] {
 @page {
     size: 21cm 29.7cm;
     padding: 0;
-    margin: 10mm;
+    margin: 0;
     border: none;
     border-collapse: collapse;
 }
