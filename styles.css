@@ -2,34 +2,34 @@
 
 /* Family */
 h1 {
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Calibri', sans-serif;
 }
 
 h2 { /* Contact, Skills, Education, About me, Work Experience */
-    font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Calibri', sans-serif;
 }
 
 h3 { /* Accountant */
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Calibri', sans-serif;
 }
 
 .jobPosition span,
 .projectName span {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Calibri', sans-serif;
 }
 
-.upperCase {
-    text-transform: uppercase;
-}
 
 .smallText,
 .smallText span,
 .smallText p,
 .smallText a {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Calibri', sans-serif;
     text-align: justify;
 }
 
+.upperCase {
+    text-transform: uppercase;
+}
 /* End Family */
 
 /* Colors */
@@ -263,6 +263,6 @@ page[size="A4"] {
 }
 
 .pageBreaker {
-    margin-top: 120px;
+    margin-top: 100px;
 }
 /*End Layout*/
